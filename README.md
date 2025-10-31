@@ -2,8 +2,7 @@
 
 This is a complete full-stack **CRUD (Create, Read, Update, Delete)** application.  
 It features a **React.js frontend** that communicates with a **Node.js/Express.js RESTful API** to manage a persistent task list in a **MySQL** database.
-
-> 🖼️ **Note:** Take a screenshot of your finished app, name it `app-screenshot.png`, and place it inside `frontend/src/assets/` for it to display below.
+<img width="1389" height="700" alt="app-screenshot" src="https://github.com/user-attachments/assets/cccecd47-1799-4adf-8bb1-12a2b20fcb4c" />
 
 ---
 
