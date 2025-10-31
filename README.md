@@ -1,60 +1,54 @@
-Full-Stack Task Manager (React, Node.js, MySQL)
+# 🧩 Full-Stack Task Manager (React, Node.js, MySQL)
 
-This is a complete full-stack CRUD (Create, Read, Update, Delete) application. It features a React.js frontend that communicates with a Node.js/Express.js RESTful API to manage a persistent task list in a MySQL database.
+This is a complete full-stack **CRUD (Create, Read, Update, Delete)** application.  
+It features a **React.js frontend** that communicates with a **Node.js/Express.js RESTful API** to manage a persistent task list in a **MySQL** database.
 
-(Note: You will need to take a screenshot of your finished app, name it app-screenshot.png, and place it in the frontend/src/assets/ folder for it to show here.)
+> 🖼️ **Note:** Take a screenshot of your finished app, name it `app-screenshot.png`, and place it inside `frontend/src/assets/` for it to display below.
 
-Features
+---
 
-Create: Add new tasks to the database.
+## 🚀 Features
 
-Read: Fetch and display all tasks on initial load.
+✅ **Create:** Add new tasks to the database  
+✅ **Read:** Fetch and display all tasks on initial load  
+✅ **Update:** Mark tasks as "completed" or "incomplete"  
+✅ **Delete:** Remove tasks from the database  
+⚡ **SPA (Single Page Application):** Smooth user experience without page reloads  
+🛡️ **Secure API:** Uses parameterized queries to prevent SQL injection  
 
-Update: Mark tasks as "completed" or "incomplete".
+---
 
-Delete: Remove tasks from the database.
+## 🧠 Technology Stack
 
-Single Page Application (SPA): All operations happen instantly without a page refresh for a smooth user experience.
+### 🖥️ Frontend
+- React.js  
+- JavaScript (ES6+)  
+- Vite (Build Tool)  
+- CSS3 (Plain CSS)
 
-Secure API: Uses parameterized queries to prevent SQL injection.
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- mysql2 (MySQL Driver)  
+- cors (Cross-Origin Resource Sharing)
 
-Technology Stack
+### 🗄️ Database
+- MySQL
 
-Frontend:
+---
 
-React.js
+## ⚙️ Getting Started
 
-JavaScript (ES6+)
+Follow the steps below to get a local copy up and running.
 
-Vite (Build Tool)
+---
 
-CSS3 (Plain CSS)
-
-Backend:
-
-Node.js
-
-Express.js
-
-mysql2 (MySQL Driver)
-
-cors (Cross-Origin Resource Sharing)
-
-Database:
-
-MySQL
-
-Getting Started
-
-Follow these instructions to get a local copy up and running.
-
-Prerequisites
+### 🧩 Prerequisites
 
 You must have the following software installed on your machine:
 
-Node.js (which includes npm)
-
-[suspicious link removed] (e.g., MySQL Community Server, MAMP, or XAMPP)
+- [Node.js](https://nodejs.org) (includes npm)
+- [MySQL Community Server](https://dev.mysql.com/downloads/mysql/) 
 
 1. Clone the Repository
 
