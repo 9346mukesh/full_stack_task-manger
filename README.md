@@ -52,8 +52,7 @@ You must have the following software installed on your machine:
 
 1. Clone the Repository
 
-git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-cd your-repo-name
+git clone [https://github.com/9346mukesh/full_stack_task-manger.git](https://github.com/9346mukesh/full_stack_task-manger.git)
 
 2. Database Setup
 
@@ -70,11 +69,11 @@ SOURCE database.sql;
 
 Navigate to the backend folder:
 
-cd backend
+      cd backend
 
 Install the necessary npm packages:
 
-npm install
+     npm install
 
 IMPORTANT: Create an Environment File
 Your database password should be kept secret. In the backend folder, create a new file named .env.
@@ -90,7 +89,7 @@ Note: You will need to update server.js to use these .env variables instead of h
 
 Start the backend server:
 
-node server.js
+    node server.js
 
 You should see:
 API server listening on port 3001
@@ -102,15 +101,15 @@ Open a new, separate terminal window.
 
 Navigate to the frontend folder:
 
-cd frontend
+    cd frontend
 
 Install the necessary npm packages:
 
-npm install
-
+    npm install
+ 
 Run the React development server:
 
-npm run dev
+    npm run dev
 
 Your browser should automatically open to http://localhost:5173/. You can now use the app!
 
